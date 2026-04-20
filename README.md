@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋 I'm Ghosthx-Code
 
-<!--
-**Ghosthx-Code/Ghosthx-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about **creating better programming languages** and **system-level coding**. Currently building **Willow**, an open-source language designed for system coding and fun.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** C, Python, HTML, CSS, JavaScript
+- **Focus:** Language design, system programming, compiler development
+- **Goal:** Making coding more intuitive and powerful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌲 Current Project: Willow
+An open-source programming language inspired by C, built for:
+- System-level programming
+- Clean, expressive syntax
+- Fun and productivity
+
+**Check it out:** [Willow Repository](https://github.com/Ghosthx-Code/willow)
+
+## 📚 What I'm Into
+- Language design & compiler development
+- System programming
+- Writing better code tools
+- Open source contribution
+
+## 🚀 Let's Connect
+Feel free to explore my projects, contribute to Willow, or reach out if you're interested in language design!
+
+---
+*Making coding better, one language at a time* ✨
