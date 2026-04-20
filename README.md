@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Ghosthx-Code
 
 ## About Me
-I'm passionate about **creating better programming languages** and **system-level coding**. Currently building **Willow**, an open-source language designed for system coding and fun.
+I'm passionate about **creating better programming languages** and **system-level coding**. Currently building **Willow**, an open-source language designed for system coding and fun. And I would like to think I am the best, but that is why I started **Willow** so I can **Learn**
 
 ## 🔧 Skills
 - **Languages:** C, Python, HTML, CSS, JavaScript
