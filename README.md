@@ -25,6 +25,6 @@ An open-source programming language inspired by C, built for:
 
 ## 🚀 Let's Connect
 Feel free to explore my projects, contribute to Willow, or reach out if you're interested in language design!
-
+ghosthx224@gmail.com
 ---
 *Making coding better, one language at a time* ✨
