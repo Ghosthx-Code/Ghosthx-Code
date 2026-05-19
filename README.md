@@ -8,15 +8,10 @@ I'm passionate about **creating better programming languages** and **system-leve
 - **Focus:** Language design, system programming, compiler development
 - **Goal:** Making coding more intuitive and powerful
 
-## 🌲 Current Project: Willow/LINUX-CONFIGv2
-An open-source programming language inspired by C, built for:
-- System-level programming
-- Clean, expressive syntax
-- Fun and productivity
+## NaShell
+An open-source shell made in rust
 
-**Check it out:** [Willow Repository](https://github.com/Ghosthx-Code/willow)
-
-**Check it out:** [LINUX-CONFIGv2 Repository](https://github.com/Ghosthx-Code/LINUX-CONFIGv2)
+**Check it out:** [NaShell Repository](https://github.com/Ghosthx-Code/NaShell)
 ## 📚 What I'm Into
 - Language design & compiler development
 - System programming
